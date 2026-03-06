@@ -1,0 +1,11 @@
+torch>=2.1.0
+torchvision
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+numpy
+matplotlib
+scikit-learn
+pyarrow
+tqdm
